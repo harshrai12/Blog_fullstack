@@ -18,7 +18,7 @@ Discover the power of technology and storytelling combined in our MERN Blog App 
 
 ## Installation & Quick Start 🚀
 
-1. **Clone the Repository:** Get started by cloning our repository: `git clone https://github.com/yourusername/mern-blog-app.git`
+1. **Clone the Repository:** Get started by cloning our repository: (https://github.com/harshrai12/Blog_fullstack.git)
 2. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies: `cd mern-blog-app` and `npm install`
 3. **Connect Your Database:** Set up your MongoDB database connection in the `.env` file - because your stories deserve the best home!
 
